@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yvson\\Desktop\\Curso C# yvson\\Projeto de Vendas ASP.NET Core MVC\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {}
+    "C:\\Projetos\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yvson\\Desktop\\Curso C# yvson\\Projeto de Vendas ASP.NET Core MVC\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {
+    "C:\\Projetos\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yvson\\Desktop\\Curso C# yvson\\Projeto de Vendas ASP.NET Core MVC\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectUniqueName": "C:\\Projetos\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
         "projectName": "SalesWebMvc",
-        "projectPath": "C:\\Users\\yvson\\Desktop\\Curso C# yvson\\Projeto de Vendas ASP.NET Core MVC\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
-        "packagesPath": "C:\\Users\\yvson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yvson\\Desktop\\Curso C# yvson\\Projeto de Vendas ASP.NET Core MVC\\SalesWebMvc\\SalesWebMvc\\obj\\",
+        "projectPath": "C:\\Projetos\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+        "packagesPath": "C:\\Users\\pe095476\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\SalesWebMvc\\SalesWebMvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yvson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pe095476\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
